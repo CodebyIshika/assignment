@@ -7,7 +7,33 @@ As I just started learning programming languages, so I really want to create a w
 ## Decisions
 When I decided to make this website, I just want to create a simple website that has a static table in it. That's why after making header and footer, I made a table that display some information.While doing this, I focused on the following considerations:
 - **Colour Contrast:** I used minimalist colours in my table to ensure readability.
-- **Icons:** I used different icons for each data type to make data type more clear and visible.
+- **Icons:** I used different icons with different colours for each data type to make data type more clear and visible.
+```css
+.one i {
+color:#4663e6; /* this is used to give colour to icon */
+background-color: #dadffa; /* this is used to give colour to background of icon */
+}
+
+.two i {
+    color: #008040;
+    background-color: #99ccb2;
+}
+
+.three i {
+    color: #ff4162;
+    background-color: #ffc9d2;
+}
+
+.four i {
+    color:#fe5b36;
+    background-color:#fed6cc ;
+}
+
+.five i {
+    color: #8c198c;
+    background-color: #dcbadc;
+}
+```
 - **Heading:** I tried to use relevant heading for my each row of table to give users proper idea about that row. Below is the html code that I used to create headings of the rows of table.
 ``` html
 <table> <!-- table tag is used to create a table -->
