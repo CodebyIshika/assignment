@@ -42,7 +42,7 @@ While creating this website, I faced a number of challenges. Some of the challen
    ```
 ## Improvements
 1. **Alignment within the icons:** I feel that I will be able to align icons if I kept on working on that as icons are not that much properly aligned right now. In my current websites, icons are liitle above than middle so they are not aligning properly with the text of the table.
-![ icon alignment in current website ]( )
+![ icon alignment in current website ](https://github.com/CodebyIshika/assignment/blob/main/icons.png)
 3. **Links: ** After sometime, I think I will be able to link show more button to some other pages by creating those pages. 
 
 
