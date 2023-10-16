@@ -1,7 +1,7 @@
 # Assignment 
 # My Project
 My project is a simple website that I created using HTML and CSS. This website has a static table that give some information about the data type such as registered users, published articles, authors, messages and visits. 
-![My current website]( )
+![My current website]( https://github.com/CodebyIshika/assignment/blob/main/Screenshot%20.png )
 ## Reason behind this website
 As I just started learning programming languages, so I really want to create a websites using the codes that I have already learnt. I have learnt just basics of HTML and CSS so I wanted to create a website using them. So, I made this table using hypothetical data to test my understanding of codes.
 ## Decisions
